@@ -1,0 +1,14 @@
+requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+shap
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+openai
+joblib
